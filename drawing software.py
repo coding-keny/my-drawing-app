@@ -1,4 +1,3 @@
-#add it so the borders for the size menu is added in the medium and large screen 
 run = True
 while run: 
  bigness = input("how big do you want the scrren to be for a small screen type small for a medium screen type medium for a large screen type large: ")
