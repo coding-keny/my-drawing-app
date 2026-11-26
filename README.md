@@ -12,9 +12,9 @@ also theres begin fill as a feture and how you use it is you press begin fill wh
 
 one very importand feture is end fill and how you use it is it only works if you already pressed begin fill and once you finish making the outline of the object you then press the button which says end fill and it should fill in the object,
 
-you can also change the background colors and it one of my fetures andhow you use it is you press on the button on the top left and then you can see a selection of colors for the background at the bottom,
+you can also change the background colors and it one of my fetures andhow you use it is you press on the button on the top left and then you can see a selection of colors for the background at the bottom and it has a array of colors like blue, red, white and green,
 
-pen colors is anotehr feture and how you use it is the same as the background colors but when you press the button at the left and open the menu there are the colors for the pen at the top not bottom,
+pen colors is anotehr feture and how you use it is the same as the background colors but when you press the button at the left and open the menu there are the colors for the pen at the top not bottom it also has the same colors as the background colors,
 
 undo is one of my most intresting fetures and how you use it is by opening the bottom menu by pressing the circular button and after that you see a button which says undo it should undo what your last pen line was,
 
