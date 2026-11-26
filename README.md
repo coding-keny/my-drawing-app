@@ -2,7 +2,9 @@
  this is what i have manage to create ussing my drawing app https://trinket.strivemath.org/u/keny/sites/drawing-app
  that the link to the website
 <img width="287" height="162" alt="Screenshot 2026-08-28 010120" src="https://github.com/user-attachments/assets/28e4a957-8a6f-47a7-ac1d-06e30333db2a" />
+
 disclaimer: you do not drag to draw instead you click!!!
+
 the features are :
 
 penup and how you use it is that there's a bottom menu and to open it you need to press a circular button and once you open the menu you see a button which says pen up and it lifts up the pen so you can move the turtle without drawing,
